@@ -1,0 +1,2 @@
+# GrimaceCoin
+Grimace Coin
